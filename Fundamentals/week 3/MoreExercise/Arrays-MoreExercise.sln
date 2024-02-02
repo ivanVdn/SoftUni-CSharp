@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.PascalTriangle", "02.Pas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.RecursiveFibonacci", "03.RecursiveFibonacci\03.RecursiveFibonacci.csproj", "{4D49DAD7-C7B9-4353-BC4F-28291C2C785C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{947A04DA-A653-48A8-BEBA-F786F0BB35DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FoldAndSum", "04.FoldAndSum\04.FoldAndSum.csproj", "{ACDEF3B4-E6CA-41D8-B7BD-A1FA77084BCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4D49DAD7-C7B9-4353-BC4F-28291C2C785C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D49DAD7-C7B9-4353-BC4F-28291C2C785C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D49DAD7-C7B9-4353-BC4F-28291C2C785C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947A04DA-A653-48A8-BEBA-F786F0BB35DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947A04DA-A653-48A8-BEBA-F786F0BB35DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947A04DA-A653-48A8-BEBA-F786F0BB35DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947A04DA-A653-48A8-BEBA-F786F0BB35DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACDEF3B4-E6CA-41D8-B7BD-A1FA77084BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDEF3B4-E6CA-41D8-B7BD-A1FA77084BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDEF3B4-E6CA-41D8-B7BD-A1FA77084BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDEF3B4-E6CA-41D8-B7BD-A1FA77084BCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
