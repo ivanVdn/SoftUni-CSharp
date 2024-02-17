@@ -82,5 +82,4 @@ namespace _03.LongerLine
             return Math.Abs(x + y); // => Math.Sqrt(x * x + y * y);
         }
     }
-
 }
