@@ -1,0 +1,185 @@
+w1. Intro and Basic Syntax
+- lab
+	- 01.Student Information
+	- 02.Passed
+	- 03.Passed Or Failed
+	- 04.Back In 30 Minutes
+	- 05.Month Printer
+	- 06.Foreign Languages
+	- 07.Theatre Promotion
+	- 08.Divisible By 3
+	- 09.Sum Of Odd Numbers
+	- 10.Multiplication Table
+	- 11.Multiplication Table 2.0
+	- 12.Even Number
+	- 13.Holidays Between Two Dates
+- Exercise
+	- 01.Ages
+	- 02.Division
+	- 03.Vacation
+	- 04.Print And Sum
+	- 05.Login
+	- 06.Strong Number
+	- 07.Vending Machines
+	- 08.Triangle Of Numbers
+	- 09.Padawan Equipment
+	- 10.Rage Expenses
+	- 11.Orders
+- More Exercise
+	- 01.Sort Numbers
+	- 02.English Name Of The Last Digit
+	- 03.Gaming Store
+	- 04.Reverse String
+	- 05.Messages
+
+w2. Data Types and Variables
+- lab
+	- 01.Convert Meters to Kilometers
+	- 02.Pounds To Dollars
+	- 03.Exact Sum Of Real Numbers
+	- 04.Centuries To Minutes
+	- 05.Special Numbers
+	- 06.Reversed Chars
+	- 07.Concat Names
+	- 08.Town Info
+	- 09.Chars To String
+	- 10.Lower Or Upper
+	- 11.Refactor Volume Of Pyramid
+	- 12.Refactor Special Numbers
+- Exercise
+	- 01.Integer Operations
+	- 02.Sum Digits
+	- 03.Elevator
+	- 04.Sum Of Chars
+	- 05.Print Part Of ASCII Table
+	- 06.Triples Of Latin Letters
+	- 07.Water Overflow
+	- 08.Beer Kegs
+	- 09.Spice Must Flow
+	- 10.Poke Mon
+	- 11.Snowballs
+- More Exercise
+	- 01.Data Type Finder
+	- 02.From Left To The Right
+	- 03.Floating Equality
+	- 04.Refactoring - Prime Checker
+	- 05.Decrypting Message
+	- 06.Balanced Brackets
+
+w3. Arrays
+- lab
+	- 01.Day Of Week
+	- 02.Print Numbers In Reverse Order
+	- 03.Rounding Numbers
+	- 04.Reverse Array Of Strings
+	- 05.Sum Even Numbers
+	- 06.Even And Odd Subtraction
+	- 07.Equal Arrays
+	- 08.Condense Array To Number
+- Exercise
+	- 01.Train
+	- 02.Common Elements
+	- 03.Zig-Zag Arrays
+	- 04.Array Rotation
+	- 05.Top Integers
+	- 06.Equal Sum
+	- 07.Max Sequence Of Equal Elements
+	- 08.Magic Sum
+	- 09.Kamino Factory
+	- 10.Lady Bugs
+- More Exercise
+	- 01.Encrypt Sort And Print Array
+	- 02.Pascal Triangle
+	- 03.Recursive Fibonacci
+	- 04.Fold And Sum
+	- 05.Longest Increasing Subsequense (LIS)
+
+w4. Methods
+- lab
+	- 01.Sing Of Integer Numbers
+	- 02.Grades
+	- 03.Calculations
+	- 04.Printing Triangle 		---
+	- 05.Orders 			---
+	- 06.Calculate Rectangle Area 	---
+	- 07.Repeat String 		---
+	- 08.Math Power 		---
+	- 09.Greater Of Two Values 	---
+	- 10.Multiply Even By Odds 	---
+	- 11.Math Operations 		---
+- Exercise
+	- 01.Smallest Of Three Numbers
+	- 02.Vowels Count
+	- 03.Characters In Range
+	- 04.Password Validator
+	- 05.Add And Subtract
+	- 06.Middle Characters
+	- 07.Nx N Matrix
+	- 08.Factorial Division
+	- 09.Palindrome Integers 
+	- 10.Top Numbers
+	- 11.Array Manipulator
+- More Exercise
+	- 01.Data Types
+	- 02.Center Point
+	- 03.Longer Line
+	- 04.Tribonacci Sequence
+	- 05.Multiplucation Sign
+
+w5. Lists
+- lab
+	- 01.Sum Adjacent Equal Numbers
+	- 02.Gauss Trick
+	- 03.Merging Lists
+	- 04.List Of Products
+	- 05.Remove Negatives And Reverse
+	- 06.List Manipulation Basics
+	- 07.List Manipulation Advanced
+- Exercise
+	- 01.Train
+	- 02.Change List
+	- 03.House Party
+	- 04.List Opertions
+	- 05.Bomb Numbers
+	- 06.Cards Game
+	- 07.Append Arrays
+	- 08.Anonymous Threat
+	- 09.Pokemon Don't Go 		---
+	- 10.SoftUni Course Planning 	---
+- More Exercise
+	- 01.Messenging 		---
+	- 02.Car Race 			---
+	- 03.Take/Skip Rope 		---
+	- 04.Mixed Up Lists 		---
+	- 05.Drum Set 			---
+
+w6. Exam Preparation
+-Exam Preparation 1
+	- 01.Black Flag
+	- 02.Shoot For The Win
+	- 03.Numbers
+
+-Exam Preparation 2
+	- 01.Counter Stike
+	- 02.Tresure Hunt
+	- 03.Memory Game
+
+-Mid Exam Solo Preparation
+	- Problem 1- Black Flag
+	- Problem 1- Bonus Scoring System 	---
+	- Problem 1- Computer Store
+	- Problem 1- Counter Strike
+	- Problem 1- Ginuea Pigs
+	- Problem 1- SoftUni Reception
+	- Problem 2- Array Modifier
+	- Problem 2- MuOnline 			---
+ 	- Problem 2- Shoot For The Win
+	- Problem 2- Shopping List
+	- Problem 2- The Lift
+	- Problem 2- Treasure Hunt
+	- Problem 3- Heart Delivery
+	- Problem 3- Inventory 			---
+	- Problem 3- ManOWar
+	- Problem 3- Memory Game
+	- Problem 3- Moving Target
+	- Problem 3- Numbers

@@ -12,12 +12,11 @@ namespace _09.PokemonDon_tGo
                 .ToList();
             var sum = 0;
 
-            //var lastIndex = inputList.Count - 1;
+            var indexFromInput = int.Parse(Console.ReadLine());
 
             for (var i = 0; i < inputList.Count; i++)
             {
                 var lastIndex = inputList.Count - 1;
-                var indexFromInput = int.Parse(Console.ReadLine());
                 var element = 0;
                 if (indexFromInput < 0)
                 {
