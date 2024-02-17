@@ -1,4 +1,7 @@
-﻿namespace Problem3_HeartDelivery
+﻿using System.Diagnostics.Metrics;
+using System.Reflection;
+
+namespace Problem3_HeartDelivery
 {
     internal class Program
     {
@@ -9,51 +12,39 @@
                 .Select(int.Parse)
                 .ToList();
             var position = 0;
-            var counter = 0;
 
             string command;
             while ((command = Console.ReadLine()) != "Love!")
             {
                 var cmd = command.Split().ToArray();
                 var jump = int.Parse(cmd[1]);
+                position += jump;
 
-
-                for (var i = 0; i < neighborhood.Count; i++)
+                if (position > neighborhood.Count - 1)
                 {
-                    var currentPosition = position + jump;
-
-                    if (i != currentPosition) continue;
-
-                    if (neighborhood[currentPosition] == 0)
-                    {
-                        Console.WriteLine($"Place {currentPosition} already had Valentine's day.");
-                        continue;
-                    }
-
-                    if ((currentPosition) > neighborhood.Count)
-                    {
-                        currentPosition = 0;
-                        Console.WriteLine($"Place {currentPosition} has Valentine's day.");
-                        continue;
-                    }
-
-                    if (neighborhood[currentPosition] > 0 && currentPosition <= neighborhood.Count)
-                    {
-                        neighborhood[currentPosition] -= 2;
-                        Console.WriteLine($"Place {currentPosition} has Valentine's day.");
-                        counter++;
-                    }
-
-                    position = currentPosition;
+                    position = 0;
                 }
+
+                if (neighborhood[position] <= 0)
+                {
+                    Console.WriteLine($"Place {position} already had Valentine's day.");
+                }
+                else
+                {
+                    neighborhood[position] -= 2;
+                    if (neighborhood[position] == 0)
+                    {
+                        Console.WriteLine($"Place {position} has Valentine's day.");
+                    }
+                }
+
             }
-            
-                
-
-
 
             Console.WriteLine($"Cupid's last position was {position}.");
-            Console.WriteLine($"Cupid has failed {counter} places.");
+            var count = neighborhood.Count(neighbor => neighbor != 0);
+
+            Console.WriteLine(count != 0 ? $"Cupid has failed {count} places." : "Mission was successful.");
         }
     }
 }
+
