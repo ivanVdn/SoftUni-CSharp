@@ -183,3 +183,8 @@ w6. Exam Preparation
 	- Problem 3- Memory Game
 	- Problem 3- Moving Target
 	- Problem 3- Numbers
+-Mid Exam
+	- Problem 1- BurgerBus
+	- Problem 2- FriendListMaintenance
+	- Problem 3- TheAngryCat
+
