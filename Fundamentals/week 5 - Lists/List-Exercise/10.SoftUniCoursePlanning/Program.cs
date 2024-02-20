@@ -109,8 +109,11 @@ namespace _10.SoftUniCoursePlanning
                             name = cmd[1];
                             if (lessonList.Contains(name))
                             {
-                                index = lessonList.IndexOf(name);
-                                lessonList.Insert(index + 1, name + "-Exercise");
+                                if (!lessonList.Contains(name+ "-Exercise"))
+                                {
+                                    index = lessonList.IndexOf(name);
+                                    lessonList.Insert(index + 1, name + "-Exercise");
+                                }
                             }
                             else
                             {
