@@ -22,7 +22,7 @@
                 }
                 else if (int.Parse(command?[0]) <= wagonCapacity)
                 {
-                    for (int i = 0; i < wagonsList.Count; i++)
+                    for (var i = 0; i < wagonsList.Count; i++)
                     {
                         if (wagonCapacity - wagonsList[i] >= int.Parse(command?[0]))
                         {

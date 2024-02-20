@@ -48,7 +48,7 @@ internal class Program
             return data;
         }
 
-        for (int i = leftIndex; i <= rightIndex; i++)
+        for (var i = leftIndex; i <= rightIndex; i++)
         {
             merged += data[i];
         }
@@ -67,13 +67,13 @@ internal class Program
 
         List<string> letterToInsert = new List<string>();
         data.RemoveAt(startIndex);
-        int letterCounter = 0;
-        for (int i = 0; i < partitions; i++)
+        var letterCounter = 0;
+        for (var i = 0; i < partitions; i++)
         {
-            string currentLetter = "";
+            var currentLetter = "";
             if (i == partitions - 1)
             {
-                for (int j = letterCounter; j < divideLetters.Length; j++)
+                for (var j = letterCounter; j < divideLetters.Length; j++)
                 {
                     currentLetter += divideLetters[j].ToString();
                     letterCounter++;
@@ -83,7 +83,7 @@ internal class Program
                 return data;
             }
             
-            for (int j = 0; j < partitionSize; j++)
+            for (var j = 0; j < partitionSize; j++)
             {
                 currentLetter += divideLetters[letterCounter].ToString();
                 letterCounter++;

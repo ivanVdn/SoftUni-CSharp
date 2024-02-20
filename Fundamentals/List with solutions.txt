@@ -144,8 +144,8 @@ w5. Lists
 	- 06.Cards Game
 	- 07.Append Arrays
 	- 08.Anonymous Threat
-	- 09.Pokemon Don't Go 		---
-	- 10.SoftUni Course Planning 	---
+	- 09.Pokemon Don't Go 
+	- 10.SoftUni Course Planning 	88/100
 - More Exercise
 	- 01.Messenging 		---
 	- 02.Car Race 			---

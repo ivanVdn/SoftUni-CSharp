@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            List<int> numberList = Console.ReadLine()
+            var numberList = Console.ReadLine()
                 .Split()
                 .Select(int.Parse)
                 .ToList();

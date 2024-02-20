@@ -16,11 +16,11 @@
                           
              */
 
-            int n = int.Parse(Console.ReadLine());
+            var n = int.Parse(Console.ReadLine());
 
             List<string> guestList = new List<string>();
 
-            for (int i = 0; i < n; i++)
+            for (var i = 0; i < n; i++)
             {
                 string[] commands = Console.ReadLine()
                     .Split(" ", StringSplitOptions.RemoveEmptyEntries);

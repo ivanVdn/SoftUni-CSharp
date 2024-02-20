@@ -6,7 +6,7 @@ namespace _04.ListOperations
     {
         static void Main(string[] args)
         {
-            List<int> numberList = Console.ReadLine()
+            var numberList = Console.ReadLine()
                 .Split()
                 .Select(int.Parse)
                 .ToList();
@@ -15,8 +15,8 @@ namespace _04.ListOperations
             while ((input = Console.ReadLine()) != "End")
             {
                 string[] command = input.Split(" ", StringSplitOptions.RemoveEmptyEntries);
-                int number = 0;
-                int index = 0;
+                var number = 0;
+                var index = 0;
                 switch (command[0])
                 {
                     case "Add":
@@ -63,14 +63,14 @@ namespace _04.ListOperations
             {
                 case "left":
                 {
-                    List<int> shiftedPartOfList = numberList.GetRange(0, count);
+                    var shiftedPartOfList = numberList.GetRange(0, count);
                     numberList.RemoveRange(0, count);
                     numberList.InsertRange(numberList.Count, shiftedPartOfList);
                 }
                     break;
                 case "right":
                 {
-                    List<int> shiftedPartOfList = numberList.GetRange(numberList.Count - count, count);
+                    var shiftedPartOfList = numberList.GetRange(numberList.Count - count, count);
                     numberList.RemoveRange(numberList.Count - count, count);
                     numberList.InsertRange(0, shiftedPartOfList);
                 }

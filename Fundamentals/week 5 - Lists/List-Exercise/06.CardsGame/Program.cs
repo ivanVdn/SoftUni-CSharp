@@ -26,7 +26,7 @@
                 .ToList();
 
             var length = Math.Min(firstPlayerList.Count, secondPlayerList.Count);
-            for (int i = 0; i < length; i++)
+            for (var i = 0; i < length; i++)
             {
                 var cardOne = firstPlayerList[i];
                 var cardTwo = secondPlayerList[i];
