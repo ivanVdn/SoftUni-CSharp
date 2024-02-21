@@ -145,7 +145,7 @@ w5. Lists
 	- 07.Append Arrays
 	- 08.Anonymous Threat
 	- 09.Pokemon Don't Go 
-	- 10.SoftUni Course Planning 	88/100
+	- 10.SoftUni Course Planning
 - More Exercise
 	- 01.Messenging 		---
 	- 02.Car Race 			---
@@ -153,17 +153,15 @@ w5. Lists
 	- 04.Mixed Up Lists 		---
 	- 05.Drum Set 			---
 
-w6. Exam Preparation
+w6. Exam + Preparation
 -Exam Preparation 1
 	- 01.Black Flag
 	- 02.Shoot For The Win
 	- 03.Numbers
-
 -Exam Preparation 2
 	- 01.Counter Stike
 	- 02.Tresure Hunt
 	- 03.Memory Game
-
 -Mid Exam Solo Preparation
 	- Problem 1- Black Flag
 	- Problem 1- Bonus Scoring System 	---
@@ -188,3 +186,16 @@ w6. Exam Preparation
 	- Problem 2- FriendListMaintenance
 	- Problem 3- TheAngryCat
 
+w7. Objects and Classes
+- lab
+	- 01.
+	- 02.
+	- 03.
+- Exercise
+	- 01.
+	- 02.
+	- 03.
+- More Exercise
+	- 01.
+	- 02.
+	- 03.
