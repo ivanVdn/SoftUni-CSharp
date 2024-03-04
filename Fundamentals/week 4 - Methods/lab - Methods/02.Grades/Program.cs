@@ -12,7 +12,7 @@
                 •	5.50 – 6.00 - "Excellent"
             */
 
-            double grade = double.Parse(Console.ReadLine());
+            var grade = double.Parse(Console.ReadLine());
 
             PrintGrade(grade);
 

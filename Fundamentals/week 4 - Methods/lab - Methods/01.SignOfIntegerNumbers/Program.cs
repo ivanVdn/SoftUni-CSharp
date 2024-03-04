@@ -11,7 +11,7 @@ internal class Program
 
          */
 
-        int input = int.Parse(Console.ReadLine());
+        var input = int.Parse(Console.ReadLine());
         PrintSign(input);
     }
 

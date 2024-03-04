@@ -99,8 +99,8 @@ w4. Methods
 	- 01.Sing Of Integer Numbers
 	- 02.Grades
 	- 03.Calculations
-	- 04.Printing Triangle 		---
-	- 05.Orders 			---
+	- 04.Printing Triangle
+	- 05.Orders
 	- 06.Calculate Rectangle Area 	---
 	- 07.Repeat String 		---
 	- 08.Math Power 		---
