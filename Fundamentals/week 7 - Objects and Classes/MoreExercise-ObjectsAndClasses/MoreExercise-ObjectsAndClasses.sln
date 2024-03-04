@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CompanyRoster", "01.CompanyRoster\01.CompanyRoster.csproj", "{62307431-EC90-4C62-B966-79DE7F9416EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.CompanyRoster", "01.CompanyRoster\01.CompanyRoster.csproj", "{62307431-EC90-4C62-B966-79DE7F9416EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.OldestFamilyMember", "02.OldestFamilyMember\02.OldestFamilyMember.csproj", "{34A2F4C0-70B5-4F1A-AA6E-1B411D48AF29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.OldestFamilyMember", "02.OldestFamilyMember\02.OldestFamilyMember.csproj", "{34A2F4C0-70B5-4F1A-AA6E-1B411D48AF29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SpeedRacing", "03.SpeedRacing\03.SpeedRacing.csproj", "{57982ED8-1122-4A5F-8C6C-6C2272B83658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RawData", "04.RawData\04.RawData.csproj", "{964EC0DF-65CE-4ADE-9B16-D04331E8B8CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ShoppingSpree", "05.ShoppingSpree\05.ShoppingSpree.csproj", "{792B1871-B64B-4E1B-8BB7-E7762C318061}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{34A2F4C0-70B5-4F1A-AA6E-1B411D48AF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34A2F4C0-70B5-4F1A-AA6E-1B411D48AF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34A2F4C0-70B5-4F1A-AA6E-1B411D48AF29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57982ED8-1122-4A5F-8C6C-6C2272B83658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57982ED8-1122-4A5F-8C6C-6C2272B83658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57982ED8-1122-4A5F-8C6C-6C2272B83658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57982ED8-1122-4A5F-8C6C-6C2272B83658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964EC0DF-65CE-4ADE-9B16-D04331E8B8CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964EC0DF-65CE-4ADE-9B16-D04331E8B8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964EC0DF-65CE-4ADE-9B16-D04331E8B8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964EC0DF-65CE-4ADE-9B16-D04331E8B8CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792B1871-B64B-4E1B-8BB7-E7762C318061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792B1871-B64B-4E1B-8BB7-E7762C318061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792B1871-B64B-4E1B-8BB7-E7762C318061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792B1871-B64B-4E1B-8BB7-E7762C318061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
