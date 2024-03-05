@@ -188,14 +188,49 @@ w6. Exam + Preparation
 
 w7. Objects and Classes
 - lab
-	- 01.
-	- 02.
-	- 03.
+	- 01.RandomizeWords
+	- 02.BigFactorial
+	- 03.Songs
+	- 04.Students
+	- 05.Students2.0
+	- 06.StoreBoxes
+	- 07.VehicleCatalogue
+	- 07.VehicleCatalogue-v.2
 - Exercise
-	- 01.
-	- 02.
-	- 03.
+	- 01.AdvertisementMessage
+	- 02.Articles
+	- 03.Articles2.0
+	- 04.Students
+	- 05.TeamworkProjects
+	- 06.VehicleCatalogue
+	- 07.OrderByAge
 - More Exercise
-	- 01.
-	- 02.
-	- 03.
+	- 01.CompanyRoster
+	- 02.OldestFamilyMember
+	- 03.SpeedRacing
+	- 04.RawData
+	- 05.ShoppingSpree
+
+w8. Associative Arrays
+- lab
+	- 01.CountRealNumbers
+	- 02.OddOccurrences
+	- 03.WordSynonyms
+	- 04.WordFilter
+- Exercise
+	- 01.CountCharsInAString
+	- 02.AMinerTask
+	- 03.Orders
+	- 04.SoftUniParking
+	- 05.Courses
+	- 06.StudentAcademy
+	- 07.CompanyUsers
+- More Exercise
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
