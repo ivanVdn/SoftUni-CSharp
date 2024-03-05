@@ -226,9 +226,46 @@ w8. Associative Arrays
 	- 06.StudentAcademy
 	- 07.CompanyUsers
 - More Exercise
+	- 01.Ranking		---
+	- 02.Judge		---
+	- 03.MOBAChallenger	---
+	- 04.Snowwhite		---
+	- 05.DragonArmy		---
+
+w9. Text Processing
+- lab
 	- 
 	- 
 	- 
+	- 
+	- 
+- Exercise
+	- 
+	- 
+	- 
+	- 
+	- 
+- More Exercise
+	- 
+	- 
+	- 
+	- 
+	- 
+
+w10. Regular Expressions
+- lab
+	- 
+	- 
+	- 
+	- 
+	- 
+- Exercise
+	- 
+	- 
+	- 
+	- 
+	- 
+- More Exercise
 	- 
 	- 
 	- 
