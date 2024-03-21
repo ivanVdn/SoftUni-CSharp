@@ -101,12 +101,12 @@ w4. Methods
 	- 03.Calculations
 	- 04.Printing Triangle
 	- 05.Orders
-	- 06.Calculate Rectangle Area 	---
-	- 07.Repeat String 		---
-	- 08.Math Power 		---
-	- 09.Greater Of Two Values 	---
-	- 10.Multiply Even By Odds 	---
-	- 11.Math Operations 		---
+	- 06.Calculate Rectangle Area 	-/-
+	- 07.Repeat String 		-/-
+	- 08.Math Power 		-/-
+	- 09.Greater Of Two Values 	-/-
+	- 10.Multiply Even By Odds 	-/-
+	- 11.Math Operations 		-/-
 - Exercise
 	- 01.Smallest Of Three Numbers
 	- 02.Vowels Count
@@ -147,11 +147,11 @@ w5. Lists
 	- 09.Pokemon Don't Go 
 	- 10.SoftUni Course Planning
 - More Exercise
-	- 01.Messenging 		---
-	- 02.Car Race 			---
-	- 03.Take/Skip Rope 		---
-	- 04.Mixed Up Lists 		---
-	- 05.Drum Set 			---
+	- 01.Messenging 		-/-
+	- 02.Car Race 			-/-
+	- 03.Take/Skip Rope 		-/-
+	- 04.Mixed Up Lists 		-/-
+	- 05.Drum Set 			-/-
 
 w6. Exam + Preparation
 -Exam Preparation 1
@@ -164,19 +164,19 @@ w6. Exam + Preparation
 	- 03.Memory Game
 -Mid Exam Solo Preparation
 	- Problem 1- Black Flag
-	- Problem 1- Bonus Scoring System 	---
+	- Problem 1- Bonus Scoring System 	-/-
 	- Problem 1- Computer Store
 	- Problem 1- Counter Strike
 	- Problem 1- Ginuea Pigs
 	- Problem 1- SoftUni Reception
 	- Problem 2- Array Modifier
-	- Problem 2- MuOnline 			---
+	- Problem 2- MuOnline 			-/-
  	- Problem 2- Shoot For The Win
 	- Problem 2- Shopping List
 	- Problem 2- The Lift
 	- Problem 2- Treasure Hunt
 	- Problem 3- Heart Delivery
-	- Problem 3- Inventory 			---
+	- Problem 3- Inventory 			-/-
 	- Problem 3- ManOWar
 	- Problem 3- Memory Game
 	- Problem 3- Moving Target
@@ -226,11 +226,11 @@ w8. Associative Arrays
 	- 06.StudentAcademy
 	- 07.CompanyUsers
 - More Exercise
-	- 01.Ranking			---
-	- 02.Judge			---
-	- 03.MOBAChallenger		---
-	- 04.Snowwhite			---
-	- 05.DragonArmy			---
+	- 01.Ranking			
+	- 02.Judge			66/100
+	- 03.MOBAChallenger		-/-
+	- 04.Snowwhite			-/-
+	- 05.DragonArmy			-/-
 
 w9. Text Processing
 - lab
@@ -249,11 +249,11 @@ w9. Text Processing
 	- 07.StringExplosion
 	- 08.LettersChangeNumbers
 - More Exercise
-	- 01.Extract Person Information		---
-	- 02.Ascii Sumator			---
-	- 03.Treasure Finder			---
-	- 04.Morse Code Translator		---
-	- 05.HTML				---
+	- 01.Extract Person Information		-/-
+	- 02.Ascii Sumator			-/-
+	- 03.Treasure Finder			-/-
+	- 04.Morse Code Translator		-/-
+	- 05.HTML				-/-
 
 w10. Regular Expressions
 - lab
