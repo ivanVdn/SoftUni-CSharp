@@ -226,31 +226,34 @@ w8. Associative Arrays
 	- 06.StudentAcademy
 	- 07.CompanyUsers
 - More Exercise
-	- 01.Ranking		---
-	- 02.Judge		---
-	- 03.MOBAChallenger	---
-	- 04.Snowwhite		---
-	- 05.DragonArmy		---
+	- 01.Ranking			---
+	- 02.Judge			---
+	- 03.MOBAChallenger		---
+	- 04.Snowwhite			---
+	- 05.DragonArmy			---
 
 w9. Text Processing
 - lab
-	- 
-	- 
-	- 
-	- 
-	- 
+	- 01.Reverse Strings
+	- 02.Repeat Strings
+	- 03.Substring
+	- 04.Text Filter
+	- 05.Digits,Letters and Other
 - Exercise
-	- 
-	- 
-	- 
-	- 
-	- 
+	- 01.Valid Usernames
+	- 02.Character Multiplier
+	- 03.ExtractFile
+	- 04.CaesarCipher
+	- 05.MultiplyBigNumber
+	- 06.ReplaceRepeatingChars
+	- 07.StringExplosion
+	- 08.LettersChangeNumbers
 - More Exercise
-	- 
-	- 
-	- 
-	- 
-	- 
+	- 01.Extract Person Information		---
+	- 02.Ascii Sumator			---
+	- 03.Treasure Finder			---
+	- 04.Morse Code Translator		---
+	- 05.HTML				---
 
 w10. Regular Expressions
 - lab
