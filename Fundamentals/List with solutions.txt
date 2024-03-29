@@ -234,14 +234,14 @@ w8. Associative Arrays
 
 w9. Text Processing
 - lab
-	- 01.Reverse Strings
-	- 02.Repeat Strings
+	- 01.ReverseStrings
+	- 02.RepeatStrings
 	- 03.Substring
-	- 04.Text Filter
-	- 05.Digits,Letters and Other
+	- 04.TextFilter
+	- 05.Digits,LettersAndOther
 - Exercise
-	- 01.Valid Usernames
-	- 02.Character Multiplier
+	- 01.ValidUsernames
+	- 02.CharacterMultiplier
 	- 03.ExtractFile
 	- 04.CaesarCipher
 	- 05.MultiplyBigNumber
@@ -249,28 +249,26 @@ w9. Text Processing
 	- 07.StringExplosion
 	- 08.LettersChangeNumbers
 - More Exercise
-	- 01.Extract Person Information		-/-
-	- 02.Ascii Sumator			-/-
-	- 03.Treasure Finder			-/-
-	- 04.Morse Code Translator		-/-
-	- 05.HTML				-/-
+	- 01.ExtractPersonInformation	-/-
+	- 02.AsciiSumator		-/-
+	- 03.TreasureFinder		-/-
+	- 04.MorseCodeTranslator	-/-
+	- 05.HTML			-/-
 
 w10. Regular Expressions
 - lab
-	- 
-	- 
-	- 
-	- 
-	- 
+	- 01.MatchFullName
+	- 02.MatchPhoneNumber
+	- 03.MatchDates
 - Exercise
-	- 
-	- 
-	- 
-	- 
-	- 
+	- 01.Furniture
+	- 02.Race
+	- 03.SoftUniBarIncome
+	- 04.StarEnigma			-/-
+	- 05.NetherRealms		-/-
+	- 06.ExtractEmails 		-/-
 - More Exercise
-	- 
-	- 
-	- 
-	- 
-	- 
+	- 01.WinningTicket		-/-
+	- 02.RageQuit			-/-
+	- 03.PostOffice			-/-
+	- 04.Santa'sSecretHelper	-/-
