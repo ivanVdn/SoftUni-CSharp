@@ -1,4 +1,8 @@
-﻿namespace Problem_3___Hero_Recruitment
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Problem_3___Hero_Recruitment
 {
     internal class Program
     {
@@ -67,12 +71,12 @@
 
                         break;
                 }
+            }
 
-                Console.WriteLine("Heroes:");
-                foreach (var hero in heroes.OrderBy(h => h.Key))
-                {
-                    Console.WriteLine($"== {hero.Key}: {string.Join(", ", hero.Value)}");
-                }
+            Console.WriteLine("Heroes:");
+            foreach (var hero in heroes)
+            {
+                Console.WriteLine($"== {hero.Key}: {(hero.Value.Count > 0 ? string.Join(", ", hero.Value) : "")}");
             }
         }
     }
